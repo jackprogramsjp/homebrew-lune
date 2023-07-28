@@ -1,8 +1,8 @@
 class Lune < Formula
   desc "Standalone Luau script runtime 🌙"
   homepage "https://lune.gitbook.io/"
-  url "https://github.com/filiptibell/lune/archive/refs/tags/v0.7.1.tar.gz"
-  sha256 "dd8fac5f2dad70b4da50df61abf97b38604f93985e52e863dfddbfc26c1b5e83"
+  url "https://github.com/filiptibell/lune/archive/refs/tags/v0.7.5.tar.gz"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   license "MPL-2.0"
 
   depends_on "rust" => :build
